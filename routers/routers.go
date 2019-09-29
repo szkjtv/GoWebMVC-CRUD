@@ -2,7 +2,7 @@ package routers
 
 import (
 	"net/http"
-	"webtest_5/controllers"
+	"GoWebMVC-CRUD/controllers"
 )
 
 func Router() {
