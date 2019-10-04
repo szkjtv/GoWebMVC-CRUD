@@ -1,6 +1,6 @@
 package main
 
-import "webtest_5/routers"
+import "GoWebMVC-CRUD/routers"
 
 func main() {
 	routers.Router()
